@@ -1,1 +1,2 @@
 # Immigrant-Wage-Discrimination
+This study uses linear regression models with instrumental variables on panel datasets to analyze wage discrimination of immigrant and resident workers, across differring job types. It assesses the appropriateness of using a fixed effects model over a random effects model. It finds a negative effect on wages of being a blue collar worker and a positive effect on wages for white collar workers. It finds evidence of discrimination against immigrants, though this discrimination seems to reduce over time.
